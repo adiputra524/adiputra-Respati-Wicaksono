@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17fa5061-f6ca-46b4-ac67-17e51958bf46" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Lab-Web-Prog/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="932839685">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="30" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.30" value="5" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JPG" value="1" />
+          <entry key="env" value="3" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="7" />
+          <entry key="php" value="277" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Blade" value="101" />
+          <entry key="Image" value="10" />
+          <entry key="PHP" value="176" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="11096" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="5025" />
+          <entry key="PHP" value="6071" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/updateController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <folding>
+                <element signature="e#39#52#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/Update.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="60" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/admin.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="105" selection-start-line="105" selection-end-line="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2014_10_12_000000_create_users_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>image</find>
+      <find>date</find>
+      <find>file</find>
+      <find>users</find>
+      <find>register</find>
+      <find>rad</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/auth/inserPhone.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/auth/insertPhone.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2018_12_05_061202_phone_table.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/UpdatePhoneController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/UpdatePhone.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2018_11_28_074040_item_table_detail.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/AuthController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Middleware/Pembantas.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/auth/admin.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/brand.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/ManageBrandController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/UpdateBrand.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/ManageBrand.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/update_brand_controller.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/User.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Member.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/InsertMember.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/UpdateMember.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/UpdateMemberController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/insertDetail.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/TransactionDetail_controller.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/TransactionDetail.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/ManagePhone.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/ManagePhone.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/insertPhone.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2018_12_19_051711_update_item_table_detail.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2018_12_19_064456_update_item_detail_table.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Item.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/phoneLists.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/Auth/RegisterController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/PhoneController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/InsertMemberController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/routes/web.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/Update.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/Update.blade.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/updateController.php" />
+        <option value="$PROJECT_DIR$/Lab-Web-Prog/resources/views/welcome.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/composer" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/thanks" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/Lab-Web-Prog/vendor/doctrine/cache" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Middleware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Providers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="seeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-Web-Prog" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Lab-Web-Prog\resources\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17fa5061-f6ca-46b4-ac67-17e51958bf46" name="Default Changelist" comment="" />
+      <created>1543555455837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543555455837</updated>
+      <workItem from="1543555457199" duration="2753000" />
+      <workItem from="1543579849135" duration="9315000" />
+      <workItem from="1543636198553" duration="3724000" />
+      <workItem from="1543731170886" duration="3940000" />
+      <workItem from="1543761902704" duration="6131000" />
+      <workItem from="1543834166094" duration="16770000" />
+      <workItem from="1543986519658" duration="5365000" />
+      <workItem from="1543998123933" duration="1865000" />
+      <workItem from="1544073587724" duration="1739000" />
+      <workItem from="1544085642903" duration="4211000" />
+      <workItem from="1544163174260" duration="5235000" />
+      <workItem from="1544240895056" duration="4919000" />
+      <workItem from="1544349556989" duration="632000" />
+      <workItem from="1544369226928" duration="1310000" />
+      <workItem from="1544452067615" duration="5749000" />
+      <workItem from="1544496972772" duration="2490000" />
+      <workItem from="1544522327063" duration="921000" />
+      <workItem from="1544538833626" duration="1942000" />
+      <workItem from="1544542915278" duration="128000" />
+      <workItem from="1544593407039" duration="4853000" />
+      <workItem from="1544968281649" duration="4655000" />
+      <workItem from="1545021344920" duration="1141000" />
+      <workItem from="1545023379983" duration="2388000" />
+      <workItem from="1545027667627" duration="3468000" />
+      <workItem from="1545122381231" duration="6214000" />
+      <workItem from="1545193732494" duration="23493000" />
+      <workItem from="1545238533964" duration="276000" />
+      <workItem from="1546095011745" duration="77000" />
+      <workItem from="1546095089381" duration="1734000" />
+      <workItem from="1546231370662" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128098000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43435448" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20309168" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/Auth/RegisterController.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/insertDetail.php" />
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/TransactionDetail_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/UpdateMemberController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/ManagePhone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/ManageBrandController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2018_11_28_073725_transaction_table_detail.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/brand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/TransactionDetail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2018_11_28_074040_item_table_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/ManagePhone.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2018_12_19_051711_update_item_table_detail.php" />
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/insertPhone.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2018_12_19_064456_update_item_detail_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Middleware/TrimStrings.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Middleware/TrustProxies.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Middleware/EncryptCookies.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/phoneLists.blade.php" />
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Middleware/VerifyCsrfToken.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Middleware/Pembantas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/1_tyuVww0LPS8oH-K7WIg18g.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/BN001032120.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/Toko.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/video-games-need-for-speed-most-wanted-2560x1600-wallpaper.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/The_Remnants_of_Despair.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/IMG_6284.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/Foto Ujian Hapkido.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/FFNT_feat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/public/storage/assets/ClaudiaKim.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/phoneLists.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#45#58#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/PhoneController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="974">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="100" selection-start-line="28" selection-start-column="100" selection-end-line="28" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/UpdateMember.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/InsertMember.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="61" selection-start-line="74" selection-start-column="61" selection-end-line="74" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="51" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/InsertMemberController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/app/Http/Controllers/updateController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#39#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/Update.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="60" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/resources/views/layouts/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-Web-Prog/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Lab-Web-Prog/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab-Web-Prog/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/mtdowling/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/phpunit/phpunit-mock-objects" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/thanks" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab-Web-Prog/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

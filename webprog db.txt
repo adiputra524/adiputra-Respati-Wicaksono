@@ -1,0 +1,48 @@
+-----------------------------Guest----------------------                             
+Page Login
+-Email
+-Password
+*Page Register
+Page Home
+-Login
+-Register
+---------------------------------------------------------
+1. login(email,password)
+2. resgister(name,email,passwrod,confirm password, profile picture , gender , date of birth , address)
+3. home(user name , logout )
+
+
+
+-----------------------------Admin-----------------------------
+Page Register
+-Hi Admin/Nama Admim
+-Log out
+----------------------
+1. home(user name , logout)
+2. insert phone(nama,brand,image,description,price.discount,stock)
+3. manage phone(delete,update)
+4. update phone(name,brand,image,description,price,discount,stock)
+5. insert brand(brand name)
+6. manage brands( update, delete)
+7. update brand(brand name)
+8. insert member(name, email. password, confirm password, profile picture,gender,date of birth , address)
+9. manage members(update,delete)
+10. update memeber( name , email, profile picture, gender , date of birth )
+11. transaction list(Id , email ,date , status , delete )
+12. transaction detail (phone, price, quantity , total quantity , grand total )
+
+
+-----------------------------Member-----------------------------
+Page Register
+-Nama Customer/Nama Kita
+-Log Out
+-----------------------------
+1. update profile(email,profile picture, gender , date of birth , address)
+2. Phone List(buy,add to cart)
+3. add to cart(nama,image,price,brand,stock,description,comments)
+4. cart(image,name,quantity,price,subtotal,totalquantity,grand total)
+5. transaction history(ID,emial,transaction date,sattus )
+6. transaction history detail(phone,price,quantity,total quantity ,grand total)
+
+
+
